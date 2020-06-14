@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-All ML projects
+This is Master Repository Containing all ML projects
